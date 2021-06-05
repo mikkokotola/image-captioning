@@ -12,7 +12,7 @@ MSc thesis "Architectures of Leading Image Captioning Systems" at the University
 ![Example image with object segmentations and captions](/Images/Figure_5_2_Sample_image_and_captions.png)
 *An example of an image, object segmentations and five ground truth captions* (figure 5.2. in the thesis). *Left*: a sample COCO image. *Center*: ground-truth pixel-level segmentations of foreground objects for the same image. *Right*: the five ground truth captions for the image. Image and caption source: COCO, https://cocodataset.org/#explore?id=51052.
 
-![Image captioning in the fields of computer vision and natural language generation](/Latex/images-indesign/Task_map.png).
+![Image captioning in the fields of computer vision and natural language generation](/Latex/images-indesign/Task_map.png)
 Image captioning as a machine learning task uses techniques from two fields of research: computer vision and natural language generation.
 
 ## Abstract of the Thesis
