@@ -25,11 +25,15 @@ The investigated leading image captioners all rely on the same object detector, 
 Pretraining the backbone using large image datasets is essential to reach semantically correct object detections and object features. The feature richness and dense annotation of data is equally important in training the object detector.
 
 ## Architecture images
-<img src="/Latex/images-indesign/Architecture_AoA.png" alt="Attention on Attention"/>
-<img src="/Latex/images-indesign/Architecture_M2.png" alt="Meshed-Memory Transformer"/>
-<img src="/Latex/images-indesign/Architecture_X-LAN.png" alt="X-Linear Network"/>
-<img src="/Latex/images-indesign/Architecture_ShowEdit.png" alt="Show, Edit and Tell"/>
-<img src="/Latex/images-indesign/Architecture_Prophet.png" alt="Prophet Attention"/>
+<details>
+  <summary>Architecture images of 5 leading captioning systems</summary><details>
+    <img src="/Latex/images-indesign/Architecture_AoA.png" name="Attention on Attention"/>
+    <img src="/Latex/images-indesign/Architecture_M2.png" name="Meshed-Memory Transformer"/>
+    <img src="/Latex/images-indesign/Architecture_X-LAN.png" name="X-Linear Network"/>
+    <img src="/Latex/images-indesign/Architecture_ShowEdit.png" name="Show, Edit and Tell"/>
+    <img src="/Latex/images-indesign/Architecture_Prophet.png" name="Prophet Attention"/>
+</details>
+
 
 ## Links
 ### COCO online test server results
