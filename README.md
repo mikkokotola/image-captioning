@@ -34,8 +34,8 @@ Pretraining the backbone using large image datasets is essential to reach semant
     <img src="/Latex/images-indesign/Architecture_M2.png" name="Meshed-Memory Transformer"/>
 </details>
 <details>
-  <summary>X-Linear Network</summary>
-    <img src="/Latex/images-indesign/Architecture_X-LAN.png" name="X-Linear Network"/>
+  <summary>X-Linear Attention Network</summary>
+    <img src="/Latex/images-indesign/Architecture_X-LAN.png" name="X-Linear Attention Network"/>
 </details>
 <details>
   <summary>Show, Edit and Tell</summary>
