@@ -26,14 +26,25 @@ Pretraining the backbone using large image datasets is essential to reach semant
 
 ## Architecture images
 <details>
-  <summary>Architecture images of 5 leading captioning systems</summary><details>
+  <summary>Attention on Attention</summary>
     <img src="/Latex/images-indesign/Architecture_AoA.png" name="Attention on Attention"/>
+</details>
+<details>
+  <summary>Meshed-Memory Transformer</summary>
     <img src="/Latex/images-indesign/Architecture_M2.png" name="Meshed-Memory Transformer"/>
+</details>
+<details>
+  <summary>X-Linear Network</summary>
     <img src="/Latex/images-indesign/Architecture_X-LAN.png" name="X-Linear Network"/>
+</details>
+<details>
+  <summary>Show, Edit and Tell</summary>
     <img src="/Latex/images-indesign/Architecture_ShowEdit.png" name="Show, Edit and Tell"/>
+</details>
+<details>
+  <summary>Prophet Attention</summary>
     <img src="/Latex/images-indesign/Architecture_Prophet.png" name="Prophet Attention"/>
 </details>
-
 
 ## Links
 ### COCO online test server results
